@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Serhat!</h1>
-<h3 align="center">I'm a lifelong learner frontend developer.</h3>
+<h3 align="center">I am developing frontend and I think it's an art.</h3>
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
