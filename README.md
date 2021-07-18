@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Serhat!</h1>
-<h3 align="center">I am developing frontend and I think it's an art.</h3>
 <hr>
 
 <h2 align="center">Languages and Tools</h2>
