@@ -1,9 +1,6 @@
-<h1 align="center">I'm,</h1>
-
 <p align="center">• Developing frontend for over 1 year</p>
-<p align="center">• A student at Yildiz Technical University</p>
-<p align="center">• 19 years old</p>
-<p align="center">• Have good communication skills in english</p>
+<p align="center">• Student at Yildiz Technical University</p>
+<p align="center">• Good communication skills in english</p>
 
 <hr>
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serhatpolat&show_icons=true&locale=en&hide=prs,issues,contribs&include_all_commits=true&theme=graywhite" alt="serhatpolat" /></div>
