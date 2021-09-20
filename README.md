@@ -1,6 +1,4 @@
-<h3 align="center">• Developing frontend for over 1 year</h3>
-<h3 align="center">• Student at Yildiz Technical University</h3>
-<h3 align="center">• Good communication skills in english</h3>
+<h3 align="center">I'm a highly motivated frontend developer with over 1 year of frontend development background</h3>
 <hr>
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serhatpolat&show_icons=true&locale=en&hide=prs,issues,contribs&include_all_commits=true&theme=graywhite" alt="serhatpolat" /></div>
 <hr>
