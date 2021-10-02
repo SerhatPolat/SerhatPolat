@@ -1,4 +1,4 @@
-<h3 align="center">I'm a highly motivated frontend developer with over 1 year of frontend development background.</h3>
+<h3 align="center">I'm a developer with over 1 year of frontend development experience.</h3>
 <hr>
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serhatpolat&show_icons=true&locale=en&hide=prs,issues,contribs&include_all_commits=true&theme=highcontrast&hide_border=true" alt="serhatpolat" /></div>
 <hr>
