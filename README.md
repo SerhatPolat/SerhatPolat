@@ -1,5 +1,5 @@
-<h4 align="center">• Developing frontend for over 1,5 year</h4>
-<h4 align="center">• Studying at Yildiz Technical University</h4>
+<h3 align="center">• Developing frontend for over 1,5 year</h3>
+<h3 align="center">• Studying at Yildiz Technical University</h3>
 <hr>
 <h2 align="center">Stats</h2>
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serhatpolat&show_icons=true&locale=en&hide=prs,issues,contribs&include_all_commits=true&theme=highcontrast&hide_border=true" alt="serhatpolat" /></div>
