@@ -1,6 +1,6 @@
 <h2 align="center">About Me</h2>
 <h3 align="center">• 20 years old</h3>
-<h3 align="center">• Developing frontend for over 1,5 year</h3>
+<h3 align="center">• Developing frontend for over 1,5 years</h3>
 <h3 align="center">• Studying at Yıldız Technical University</h3>
 <h3 align="center">• Proficient in UX focused UI development</h3>
 <hr>
