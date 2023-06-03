@@ -2,7 +2,7 @@
 
 * Different kinds of B2B SaaS projects
 * Comprehensive B2C marketplace e-commerce project
-* Finance management software (with many kinds of filter, search and sort, algorithms)
+* Finance management software (with many kinds of filter, search and sort algorithms)
 * AI powered identity verification app
 * Video call KYC project
 & more
