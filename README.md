@@ -5,6 +5,7 @@
 * Finance management software (with many kinds of filter, search and sort algorithms)
 * AI powered identity verification app
 * Video call KYC project
+* Employee management app (as a fullstack developer)
 & more
 
 Powerful and various tech stack (React/React Native, Vue 3, Next.js, Redux Toolkit, Storybook, TypeScript, Tailwind CSS, Sass, etc.)
