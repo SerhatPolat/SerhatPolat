@@ -1,3 +1,5 @@
+Crafting user friendly web apps with implementing progressive software development solutions
+
 2+ years frontend development experience in many different industries and concepts of projects:
 
 * Different kinds of B2B SaaS projects
@@ -8,7 +10,7 @@
 * Employee management app (as a fullstack developer)
 & more
 
-Powerful and various tech stack (React/React Native, Vue 3, Next.js, Redux Toolkit, Storybook, TypeScript, Tailwind CSS, Sass, etc.)
+Powerful and various tech stack (React/React Native, Next.js, Vue 3, Vuex, Redux Toolkit, Storybook, TypeScript, Tailwind CSS, Sass, etc.)
 
 <hr>
 
