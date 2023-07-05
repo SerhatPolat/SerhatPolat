@@ -1,5 +1,3 @@
-Crafting user friendly web apps with implementing progressive software development solutions
-
 2+ years frontend development experience in many different industries and concepts of projects:
 
 * Different kinds of B2B SaaS projects
