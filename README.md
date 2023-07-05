@@ -6,6 +6,7 @@
 * AI powered identity verification app
 * Video call KYC project
 * Employee management app (as a fullstack developer)
+
 & more
 
 Powerful and various tech stack (React/React Native, Next.js, Vue 3, Vuex, Redux Toolkit, Storybook, TypeScript, Tailwind CSS, Sass, etc.)
