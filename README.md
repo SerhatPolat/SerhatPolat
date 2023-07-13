@@ -1,4 +1,4 @@
-2+ years frontend development experience in many different industries and concepts of projects:
+Highly valuable frontend development experience in many different industries and concepts of projects:
 
 * Different kinds of B2B SaaS projects
 * Comprehensive B2C marketplace e-commerce project
