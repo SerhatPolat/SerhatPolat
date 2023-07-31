@@ -9,7 +9,7 @@ Highly valuable frontend development experience in many different industries and
 
 & more
 
-Powerful and various tech stack (React/React Native, Next.js, Vue 3, Vuex, Redux Toolkit, Storybook, TypeScript, Tailwind CSS, Sass, etc.)
+Powerful and various tech stack (React/React Native, Next.js, Vue 3, Vuex, Redux Toolkit, Storybook, Jest, TypeScript, Tailwind CSS, Sass, MongoDB, etc.)
 
 <hr>
 
