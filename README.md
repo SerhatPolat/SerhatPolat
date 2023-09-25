@@ -11,6 +11,10 @@ Highly valuable frontend development experience in many different industries and
 
 Powerful and various tech stack => React/React Native, Next.js, Vue 3, Vuex, Redux Toolkit, Storybook, Jest, TypeScript, Tailwind CSS, Sass, MongoDB, etc.
 
+<br>
+
+Fun Fact: I like to use NeoVim and its make me feel like the architect of matrix :D
+
 <hr>
 
 ## Socials:
