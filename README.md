@@ -13,8 +13,6 @@ Powerful and various tech stack => React/React Native, Next.js, Vue 3, Vuex, Red
 
 <br>
 
-Fun Fact: I like to use NeoVim and it makes me feel like the architect of matrix :D
-
 <hr>
 
 ## Socials:
