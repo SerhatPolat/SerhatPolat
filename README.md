@@ -1,17 +1,15 @@
-Highly valuable frontend development experience in many different industries and concepts of projects:
++3 years experience | TypeScript, React/React Native, Next.js, Redux TK, Vue, Vuex, TailwindCSS, BEM CSS, Storybook, WebSockets, MongoDB & more
+
+Experience in many different kinds of projects:
 
 * Different kinds of B2B SaaS projects
-* Comprehensive marketplace e-commerce project
+* Comprehensive marketplace e-commerce project specifically for vehicle purchase
 * Finance management software (with many kinds of filter, search and sort algorithms)
 * AI powered identity verification app with complex API dataflows (both client & management apps)
 * Video call KYC project (frontend side + socket server)
-* Employee management app (as a fullstack developer)
+* Employee management app for accurate happiness and performance tracking (as a fullstack developer)
 
 & more
-
-Powerful and various tech stack => React/React Native, Next.js, Vue 3, Vuex, Redux Toolkit, Storybook, Jest, TypeScript, Tailwind CSS, Sass, MongoDB, etc.
-
-<br>
 
 <hr>
 
