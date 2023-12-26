@@ -1,4 +1,4 @@
-+3 years experience | TypeScript, React/React Native, Next.js, Redux TK, Vue, Vuex, TailwindCSS, BEM CSS, Sass, Storybook, WebSockets, Node.js, MongoDB & more
+TypeScript, React/React Native, Next.js, Redux TK, Vue, Vuex, TailwindCSS, BEM CSS, Sass, Storybook, WebSockets, Node.js, MongoDB & more
 
 Experience in many different kinds of projects:
 
