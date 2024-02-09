@@ -1,4 +1,12 @@
-TypeScript, React/React Native, Next.js, Vue, Nuxt.js, Vuex, Redux TK, TailwindCSS, BEM CSS, Sass, Storybook, WebSockets, Node.js, MongoDB & more
+I'm describing myself as a Fullstack Product Developer which one is specialized on JavaScript ecosystem and approaches like standardization, flexibility, maintainability, performance, prioritizing.
+
+...
+
+FRONTEND: TypeScript, React, Next.js, Vue, Nuxt.js, Vuex, Redux TK, TailwindCSS, BEM CSS, Sass, Storybook, Frontend Testing Libraries & more
+
+BACKEND: Node.js, Express.js, MongoDB & more
+
+...
 
 Experience in many different kinds of projects:
 
