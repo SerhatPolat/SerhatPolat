@@ -1,4 +1,4 @@
-I'm describing myself as a Fullstack Product Developer which one is specialized on JavaScript ecosystem and approaches like standardization, flexibility, maintainability, performance, prioritizing.
+I'm describing myself as a Fullstack Product Developer which one is specialized on JavaScript ecosystem, UX focused UI development, standardization, flexibility, maintainability, performance, prioritizing.
 
 ...
 
