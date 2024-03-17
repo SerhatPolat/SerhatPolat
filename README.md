@@ -1,4 +1,4 @@
-I'm describing myself as a Fullstack Product Developer which one is specialized on JavaScript ecosystem, UX focused UI development, standardization, flexibility, maintainability, performance, prioritizing.
+Frontend/Fullstack Apps, JavaScript Ecosystem (React, Vue, Node, etc.), UX Focused UI Development, CSS Approaches, E2E Product Development, Startup Culture & more
 
 ...
 
