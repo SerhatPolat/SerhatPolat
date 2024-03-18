@@ -1,4 +1,4 @@
-Frontend/Fullstack Apps, JavaScript Ecosystem (React, Vue, Node, etc.), UX Focused UI Development, CSS Approaches, E2E Product Development, Startup Culture & more
+Frontend/Fullstack Apps, JavaScript Ecosystem, UX Focused UI Development, CSS Approaches, E2E Product Development, SDLC, Startup Culture, Standardization, Prioritizing, Flexibility, Reusability & more
 
 ...
 
@@ -13,7 +13,7 @@ Experience in many different kinds of projects:
 * Different kinds of B2B SaaS projects
 * Comprehensive marketplace e-commerce project specifically for vehicle purchase
 * Finance management software (with many kinds of filter, search and sort algorithms)
-* AI powered identity verification app with complex API dataflows (both client & management apps)
+* AI powered identity verification app with complex dataflows (both client & management apps)
 * Video call KYC project (frontend side + socket server)
 * Employee management app for accurate happiness and performance tracking (as a fullstack developer)
 
