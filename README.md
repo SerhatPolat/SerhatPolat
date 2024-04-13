@@ -8,7 +8,7 @@ BACKEND: Node.js, Express.js, MongoDB & more
 
 ...
 
-Experienced in these kind of projects:
+PROJECTS:
 
 * Different kinds of B2B SaaS projects
 * Comprehensive marketplace e-commerce project specifically for vehicle purchase
