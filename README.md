@@ -1,4 +1,4 @@
-Frontend/Fullstack Developments, JavaScript Ecosystem, UX Focused UI Development, CSS Approaches, E2E Product Development, SDLC, Startup Culture, Standardization, Prioritizing, Flexibility, Reusability & more
+Frontend/Fullstack Development, JavaScript Ecosystem, UX Focused UI Development, CSS Approaches, E2E Product Development, SDLC, Startup Culture, Standardization, Prioritizing, Flexibility, Reusability & more
 
 ...
 
