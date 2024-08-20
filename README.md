@@ -15,7 +15,7 @@ PROJECTS:
 * Finance management parts of ERP software (w/ many kinds of filters, search and sort functionality)
 * AI powered identity verification system (Web SDK + comprehensive management app)
 * Video call KYC project (frontend side + socket server)
-* Core module of comprehensive generative AI platform
+* Core application & Code Assist modules of comprehensive generative AI platform
 * Employee management app for accurate happiness and performance tracking (as a fullstack developer)
 * Different kinds of open-source kickstarter/template structures for JavaScript projects (w/ TypeScript, Vue (Nuxt.js), React (Next.js), Redux TK, Cypress, Storybook, Tailwind CSS, Node.js, Express.js, MongoDB & more)
 
