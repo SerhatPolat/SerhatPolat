@@ -2,7 +2,7 @@ Frontend/Fullstack Development, JavaScript Ecosystem, UX Focused UI Development,
 
 ...
 
-FRONTEND: TypeScript, React, Next.js, Vue, Nuxt.js, Vuex, Redux TK, API Connections, WebSockets, TailwindCSS, BEM CSS, Sass, Material UI, Storybook, Frontend Testing Libraries & more
+FRONTEND: TypeScript, React, Next.js, Vue, Nuxt.js, Vuex, Redux TK, API Connections, WebSockets, TailwindCSS, BEM CSS, Sass, Material UI, Storybook, Frontend Testing Libraries, i18n & more
 
 BACKEND: Node.js, Express.js, MongoDB & more
 
