@@ -1,8 +1,8 @@
-Frontend/Fullstack Development, JavaScript Ecosystem, UX Focused UI Development, CSS Approaches, E2E Product Development, SDLC, Startup Culture, Standardization, Prioritizing, Flexibility, Reusability & more
+Frontend/Fullstack Development, JavaScript Ecosystem, UX Focused UI Development, CSS Methodologies, E2E Product Development, SDLC, Standardization, Flexibility & more
 
 ...
 
-FRONTEND: TypeScript, React, Next.js, Vue, Nuxt.js, Vuex, Redux TK, API Connections, WebSockets, TailwindCSS, BEM CSS, Sass, Material UI, Storybook, Frontend Testing Libraries, i18n & more
+FRONTEND: TypeScript, React, Next.js, Vue, Nuxt.js, Vuex, Redux TK, Zustand, API Connections, WebSockets, TailwindCSS, BEM CSS, Sass, Material UI, Storybook, Frontend Testing Libraries, i18n & more
 
 BACKEND: Node.js, Express.js, MongoDB & more
 
