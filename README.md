@@ -16,6 +16,7 @@ PROJECTS:
 * AI powered identity verification system (Web SDK + comprehensive management app)
 * Video call KYC project (frontend side + socket server)
 * Different modules of comprehensive generative AI platform (Core, Code Assist, Converse (Enterprise AI Chat) and Generic Chatbot Widget)
+* Meeting transcript & notes extraction AI app (w/ data streaming structures for extraction and artifact generation, artifact edit flows with dynamic tables & more)
 * Employee management app for accurate happiness and performance tracking (as a fullstack developer)
 * Different kinds of open-source kickstarter/template structures for JavaScript projects (w/ TypeScript, Vue (Nuxt.js), React (Next.js), Redux TK, Cypress, Storybook, Tailwind CSS, Node.js, Express.js, MongoDB & more)
 
