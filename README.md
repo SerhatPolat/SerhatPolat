@@ -1,4 +1,4 @@
-Frontend/Fullstack Development, JavaScript Ecosystem, UX Focused UI Development, CSS Methodologies, E2E Product Development, SDLC, Standardization, Flexibility & more
+Frontend/Fullstack Development, JavaScript Ecosystem, AI Powered Apps, UX Focused UI Development, CSS Methodologies, E2E Product Development, SDLC, Standardization, Flexibility & more
 
 ...
 
