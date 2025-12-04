@@ -12,7 +12,7 @@ PROJECTS:
 
 * Different kinds of open-source kickstarter/template structures for JavaScript projects (w/ TypeScript, Vue (Nuxt.js), React (Next.js), Redux TK, Cypress, Storybook, Tailwind CSS, Node.js, Express.js, MongoDB & more)
 * Employee management app for accurate happiness and performance tracking (Built everything by myself as a fullstack developer)
-* Meeting transcript & notes extraction AI app (w/ data streaming structures for transcript extraction and artifact generation, real-time notification system, artifact edit flows with dynamic tables (w/ import and export xlsx files functionalities) & more)
+* Meeting transcript extraction + notes and artifacts generation AI app (w/ data streaming structures for transcript extraction and artifact generation, real-time notification system, artifact edit flows with dynamic tables (w/ import and export xlsx files functionalities) & more)
 * Methodology assistant AI chat (w/ next step suggestions, citations, feedback functionality & more)
 * Different modules of comprehensive generative AI platform (Core, Code Assist, Converse (Enterprise AI Chat) and Generic Chatbot Widget)
 * Video call KYC project (frontend side + socket server)
