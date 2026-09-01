@@ -2,12 +2,6 @@ Frontend/Fullstack Development, JavaScript Ecosystem, AI-Powered Apps, UX Focuse
 
 ...
 
-FRONTEND: TypeScript, React, Next.js, Vue, Nuxt.js, Vuex, Redux TK, Zustand, API Connections, WebSockets, TailwindCSS, BEM CSS, Sass, Material UI, Storybook, Frontend Testing Libraries, i18n & more
-
-BACKEND: Node.js, Express.js, MongoDB & more
-
-...
-
 PROJECTS:
 
 * Task based AI-powered coding platform built with TypeScript, Next.js, MongoDB, and GoogleGenAI
