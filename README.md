@@ -12,7 +12,7 @@ PROJECTS:
 * Different kinds of AI chats (w/ next step suggestions, citations, feedback functionality, expandable sources component, dynamic document display side panel, custom AI score indicator & more)
 * Different modules of comprehensive generative AI platform (Core, Code Assist, Converse (Enterprise AI Chat) and Generic Chatbot Widget)
 * Video call KYC project (frontend side + socket server)
-* AI powered identity verification system (Web SDK + comprehensive management app)
+* AI-powered identity verification system (Web SDK + comprehensive management app)
 * Finance management parts of ERP software (w/ many kinds of filters, search and sort functionality)
 * Comprehensive marketplace e-commerce project specifically for vehicle purchase
 * Different kinds of B2B SaaS projects
