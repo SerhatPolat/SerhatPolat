@@ -4,7 +4,7 @@ Frontend/Fullstack Development, JavaScript Ecosystem, AI-Powered Apps, UX Focuse
 
 PROJECTS:
 
-* Task based AI-powered coding platform built with TypeScript, Next.js, MongoDB, and GoogleGenAI
+* AI-driven development platform: GitHub repository based sandbox management, AI codebase analysis, AI-powered task generation, AI-powered coding, automatic advanced Git pipeline, autonomous code review...
 * Different kinds of open-source kickstarter/template structures for JavaScript projects (w/ TypeScript, Vue (Nuxt.js), React (Next.js), Redux TK, Cypress, Storybook, Tailwind CSS, Node.js, Express.js, MongoDB & more)
 * Employee management app for accurate happiness and performance tracking
 * AI assistant admin panel for detailed configuration, data management and analytics
